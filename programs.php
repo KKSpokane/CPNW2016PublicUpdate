@@ -65,24 +65,44 @@
             <div class="small-12 medium-4 columns"> <!--first column -->
                 <dl class="accordion" data-accordion>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#panel1b">Accordion 1</a>
+                        <a style="font-size:14px; padding:.5rem" href="#panel1b">Bastyr University</a>
                         <div id="panel1b" class="content ">
-                           <span style="font-size:12px"> Program Name</span><br>
+                           <ul class="no-bullet" style="font-size:12px">
+
+                             <li>Dietetics</li>
+
+
+                           </ul>
 
                         </div>
                     </dd>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#panel2b">Accordion 2</a>
+                        <a style="font-size:14px; padding:.5rem" href="#panel2b">Bellevue College</a>
                         <div id="panel2b" class="content">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
 
+                              <li>  Diagnostic Ultrasound</li>
+                                <li> Neurodiagnostic Tech</li>
+                                <li> Nuclear Med Tech</li>
+                                <li> Nursing-ADN</li>
+                                <li>Nursing-BSN</li>
+                                <li>Nursing-Refresher</li>
+                                <li>Nursing-RN to BSN</li>
+                                <li>Radiation Therapy</li>
+                                <li>Radiation/Imaging Sciences</li>
+                                <li>Radiology Tech</li>
+                            </ul>
 
-                        </div>
+                          </div>
                     </dd>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#panel3b">Accordion 3</a>
+                        <a style="font-size:14px; padding:.5rem" href="#panel3b">Big Bend College</a>
                         <div id="panel3b" class="content">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
+                                <li>Nursing-ADN</li>
+
+                            </ul>
+
 
                         </div>
                     </dd>
@@ -92,25 +112,36 @@
             <div class="small-12 medium-4 columns"> <!--first column -->
                 <dl class="accordion" data-accordion>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#pane41b">Accordion 4</a>
+                        <a style="font-size:14px; padding:.5rem" href="#pane41b">Central Washington University</a>
                         <div id="pane41b" class="content ">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
 
+                                <li>Nutrition/Exercise</li>
+                                <li>Paramedicine</li>
+
+                            </ul>
 
                         </div>
                     </dd>
                     <dd style="font-size:14px;"class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem"   href="#panel5b">Accordion 5</a>
+                        <a style="font-size:14px; padding:.5rem"   href="#panel5b">Eastern Washington University </a>
                         <div id="panel5b" class="content">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
 
+                                <li>Communication Science/Disorders</li>
+                                <li>Occupational Therapy</li>
+                                <li>Physical Therapy</li>
+                            </ul>
 
 
                         </div>
                     </dd>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#panel6b">Accordion 6</a>
-                        <div id="panel6b" class="content"><span style="font-size:12px"> Program Name</span><br>
+                        <a style="font-size:14px; padding:.5rem" href="#panel6b">Everett Community College</a>
+                        <div id="panel6b" class="content">
+                            <ul class="no-bullet" style="font-size:12px">
+                                <li>Nursing-ADN</li>
+                            </ul>
                         </div>
                     </dd>
                 </dl>
@@ -118,25 +149,42 @@
             <div class="small-12 medium-4 columns"> <!--first column -->
                 <dl class="accordion" data-accordion>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#pane71b">Accordion 7</a>
+                        <a style="font-size:14px; padding:.5rem" href="#pane71b">Gonzaga University</a>
                         <div id="pane71b" class="content ">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
 
+                                <li>Nursing-BSN</li>
+                                <li>Nursing-Masters</li>
+
+                            </ul>
 
                         </div>
                     </dd>
                     <dd style="font-size:14px;"class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem"   href="#panel8b">Accordion 8</a>
+                        <a style="font-size:14px; padding:.5rem"   href="#panel8b">Lake WA Institute of Tech</a>
                         <div id="panel8b" class="content">
-                            <span style="font-size:12px"> Program Name</span><br>
+                            <ul class="no-bullet" style="font-size:12px">
 
+                                <li>Nursing-ADN</li>
+
+
+                            </ul>
 
 
                         </div>
                     </dd>
                     <dd class="accordion-navigation">
-                        <a style="font-size:14px; padding:.5rem" href="#panel9b">Accordion 9</a>
-                        <div id="panel9b" class="content"><span style="font-size:12px"> Program Name</span><br>
+                        <a style="font-size:14px; padding:.5rem" href="#panel9b">   Lewis Clark State College</a>
+                        <div id="panel9b" class="content">
+                            <ul class="no-bullet" style="font-size:12px">
+
+                                <li>Nursing-BSN</li>
+                                <li>Nursing-PN</li>
+                                <li>Nursing-PN to BSN</li>
+                                <li>Nursing-RN to BSN</li>
+                                <li>Radiographic Science</li>
+
+                            </ul>
                         </div>
                     </dd>
                 </dl>

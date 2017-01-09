@@ -39,15 +39,13 @@
         <div class="small-12 medium-9 columns">
 
             <section>
+
+
+
+
+
                 <div class="row">
                     <div class="small-12 columns"><h1 class="line-after">Connecting with us is just steps away.</h1>
-                    </div>
-                </div>
-
-
-
-
-                <div class="row">
                     <div class="small-12 medium-4 columns text-center">
                         <i style="color:#97ba36;" class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
 

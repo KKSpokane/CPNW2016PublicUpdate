@@ -35,10 +35,11 @@
 
         <section>
 
-              <h1 class="line-after">2016 - 2017 Clinical Placements</h1>
+
 
 
               <div class="row " >
+                  <h1 class="line-after">2016 - 2017 Clinical Placements</h1>
 
                 <div class="small medium-4 columns">
                   <h4>East Region</h4>

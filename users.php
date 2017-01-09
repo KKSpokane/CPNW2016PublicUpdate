@@ -13,7 +13,7 @@
 <!-- /header -->
 
 <div class="hero hero-inner">
-    <img src="images/content/heros/dashboard.jpg" />
+    <img src="images/content/heros/inner-5.jpg" />
     <div class="row">
         <div class="small-12 columns">
             <h1>Dashboard</h1>

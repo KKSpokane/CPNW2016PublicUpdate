@@ -41,15 +41,12 @@
         <div class="small-12 medium-9 columns">
 
             <section>
-                <div class="row">
-                    <div class="small-12 columns">
-                        <h1 class="line-after">Nursing Placement </h1>
-                    </div>
-                </div>
+
 
                 <div class="row">
+                    <h1 class="line-after">Nursing Placement </h1>
                     <div class="small-12 medium-4 medium-push-8 columns ">
-                        <div class="map">  <img   src="images/map_sm.png" alt="Pacific Northwest Map"></div>
+                        <div class="map">  <img src="images/content/about/map.png" alt="Pacific Northwest Map"></div>
                     </div>
 
 

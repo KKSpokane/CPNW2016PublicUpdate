@@ -18,7 +18,7 @@
         <div class="small-12 columns">
 
             <h1>
-            About Us</h1>
+                About Us</h1>
         </div>
     </div>
 </div>
@@ -39,43 +39,48 @@
                     <h1 class="line-after">Partners for excellence in clinical education.</h1>
                     <div class="small-12 columns">
 
-                        <p> Clinical Placement Northwest (CPNW) offers an innovative partnership between more than 200
-                            professional healthcare programs and key medical facilities throughout the Pacific
+                        <p> Clinical Placement Northwest (CPNW) is an innovative partnership over 200
+                            educational programs and major healthcare systems throughout the Pacific
                             Northwest.
-                            These education and healthcare partners are working together with a common vision and
-                            singular
-                            goal of creating a well-prepared and successful healthcare workforce. Learn about our
-                            extensive
-                            list of partners in the links to the left.
+                            These education and healthcare partners are working together with a shared vision and
+                            common goal of creating a well-prepared and competent healthcare workforce. Learn about our
+                            extensive list of partners in the links to the left.
                         </p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="small-12 medium-6 columns">
-                            <p><strong>Our Mission</strong> is to to improve the health and
-                                clinical experience, thereby increasing value to
-                                all stakeholders; improving quality of care;
-                                improving patient, student and preceptor
-                                satistaction; and promoting system sustainability.</p>
+                        <p><strong>Our Mission</strong> is to to improve the health education and
+                            clinical experience, thereby increasing value to
+                            all stakeholders; improving quality of care;
+                            improving patient, student and preceptor
+                            satisfaction; and promoting system sustainability.</p>
 
 
-                            <p><strong> Our Goal </strong> is be a leader in innovation of clinical education management
-                                for all health
-                                professions. </p>
+                        <p><strong> Our Goal </strong> is to be the recognized leader in innovation in clinical
+                            placement of the health professions student. </p>
                     </div>
 
                     <div class="small-12 medium-6 columns">
-                       <strong> Our commitments </strong>are to optimize clinical
+                        <strong> Our commitments </strong>are to optimize clinical
                         learning opportunities by:
                         <ul class="fa-ul">
-                           <li> <i  class="fa-li fa fa-check-square text-brown"></i>Streamlining & standardizing processes
-                            between partner organizations</li>
-                          <li><i  class="fa-li fa fa-check-square text-brown "></i> Creating efficient & effective placements</li>
-                         <li> <i  class="fa-li fa fa-check-square text-brown"></i> Promoting relationships among partners</li>
-                         <li> <i  class="fa-li fa fa-check-square text-brown"></i> Demonstrating resource savings</li>
-                        <li> <i class="fa-li fa fa-check-square text-brown"></i> Sharing best practices for sustainable
-                            improvement</li>
+                            <li><i class="fa-li fa fa-check-square text-brown "></i> Creating efficient & effective
+                                systems
+                            </li>
+                            <li><i class="fa-li fa fa-check-square text-brown"></i>Streamlining & standardizing
+                                processes across organizations
+                            </li>
+
+                            <li><i class="fa-li fa fa-check-square text-brown"></i> Ensuring compliance
+                            </li>
+                            <li><i class="fa-li fa fa-check-square text-brown"></i> Promoting relationships
+                            </li>
+                            <li><i class="fa-li fa fa-check-square text-brown"></i> Demonstrating resource savings</li>
+                            <li><i class="fa-li fa fa-check-square text-brown"></i> Sharing best practices for
+                                sustainable improvement
+                            </li>
 
 
                         </ul>
@@ -111,12 +116,3 @@
 
 </body>
 </html>
-<!--
-                        <p>Clinical Placements Northwest (CPNW) is committed to the clinical education of health
-                            professions
-                            students throughout the Pacific Northwest. Healthcare organizations and education programs
-                            are working
-                            together with a common vision and singular goal of creating a well-prepared and successful
-                            healthcare
-                            workforce.</p>
--->

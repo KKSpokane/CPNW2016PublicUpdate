@@ -23,7 +23,7 @@
                     <nav class="utility">
                         <ul>
                             <li><a href="#">Register</a></li>
-                            <li><a href="#">My Dashboard</a></li>
+                            <li><a href="dashboard.php">My Dashboard</a></li>
                             <li><a href="#">Login</a></li>
                         </ul>
                     </nav>
@@ -31,7 +31,7 @@
                         <ul>
                             <li class="nav-dropdown wide"><a href="about.php">About Us</a>
                                 <ul>
-                                    <li><a href="healthcare.php">Healthcare Partners</a></li>
+                                    <li><a href="partners.php">Healthcare Partners</a></li>
                                     <li><a href="programs.php">Participating Programs</a></li>
                                     <li><a href="nursing_place.php">Nursing Placement</a></li>
                                 </ul>

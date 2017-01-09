@@ -34,10 +34,11 @@
         <div class="small-12 medium-9 columns">
 
             <section>
+
+
+
                 <div class="row">
-                    <div class="small-12 columns">
-                <h1 class="line-after">Become A Healthcare Partner</h1></div></div>
-                <div class="row">
+                    <h1 class="line-after">Become A Healthcare Partner</h1>
 
                     <div class="small-12 medium-4 medium-push-8 columns text-center">
 

@@ -78,13 +78,13 @@
                 <div class="row">  <!-- inner row -->
 
                     <div class="small-12 medium-6 columns text-center">
-                    <i>  <img class="rotate_left" src="images/passport.jpg"></i>
-                        <h2 style="margin-bottom:0;">Clinical Passports</h2>
+                    <i>  <img class="rotate_left" src="images/content/services/passport.jpg"></i>
+                        <h2 style="margin-bottom:0;">Clinical Passport</h2>
                         <span class="sub"> Health + Safety Requirements</span>
                         <br>
                         <p class="text-left">All users have a standard set of requirements that must be met before a clinical
                             learning
-                            experience. They are known as the CPNW Clinical Passport. The requirements cover
+                            experience. These requirements are contained with the CPNW Clinical Passport.   The requirements cover
                             immunity status for vaccine-preventable diseases, background checks, pre-clinical
                             training, license and insurance information. </p>
                      </div>

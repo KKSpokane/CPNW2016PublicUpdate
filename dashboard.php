@@ -37,7 +37,7 @@
         <section>
 
 
-              <h1 class="line-after">Welcome</h1>
+
 
             <h2> Users need to be able to get to dashbord welcome page from side nav</h2>
               <p>
